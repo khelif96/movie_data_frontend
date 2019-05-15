@@ -1,0 +1,16 @@
+.container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.description {
+  margin-top: 50px;
+  font-size: 22px;
+}
+
+.form{
+  margin-left: 30%;
+  margin-right: 30%;
+}
